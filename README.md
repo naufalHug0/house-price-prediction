@@ -1,1 +1,1 @@
-Learning machine learning, predicts house price based on correlated data
+Machine learning predicts house price based on correlated data
